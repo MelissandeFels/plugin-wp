@@ -6,8 +6,8 @@ B.	Définition du besoin </br> </br>
 Afin d’améliorer l’expérience utilisateur, OPTIMUM souhaite refaire son site internet. Le directeur Monsieur Ga souhaite moderniser son site en ajoutant un module de réservation pour les différents cours de sport et autres services comme les séances de yoga. </br></br>
 Le site permettra la réservation des services suivants : </br></br>
 - Accès à la salle de musculation (9000/m - 110000/a) </br>
-      Cours particuliers </br>
-- Renforcement musculaire (6000/s)</br>
+- Cours particuliers </br>
+      Renforcement musculaire (6000/s)</br>
       Préparation physique (6000/s)</br>
 - Cours collectifs </br>
       Cardio training (3000/s) </br>
