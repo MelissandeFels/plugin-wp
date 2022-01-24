@@ -1,10 +1,10 @@
 <h1>Cahier des charges</h1>
 
-A.	Présentation du client </br>
+A.	Présentation du client </br> </br>
 Optimum est une salle de sport qui propose diverses activités dont le yoga, le cross-training, le cardio-training, le renforcement musculaire, sous forme de cours particuliers et collectifs.</br></br>
-B.	Définition du besoin </br>
+B.	Définition du besoin </br> </br>
 Afin d’améliorer l’expérience utilisateur, OPTIMUM souhaite refaire son site internet. Le directeur Monsieur Ga souhaite moderniser son site en ajoutant un module de réservation pour les différents cours de sport et autres services comme les séances de yoga. </br>
-Le site permettra la réservation des services suivants : </br></br>
+Le site permettra la réservation des services suivants : </br>
 •	Accès à la salle de musculation (9000/m - 110000/a) </br>
 •	Cours particuliers </br>
 o	Renforcement musculaire (6000/s)</br>
@@ -15,7 +15,7 @@ o	Cross training (4000/s) </br>
 •	Séance de yoga (5000/s) </br>
 Le directeur souhaite aussi rendre ce nouveau site internet accessible sur mobile car beaucoup de clients réservent des cours pendant leur journée de travail ou sur le trajet de la salle de sport. Une tablette sera aussi mise à disposition à l’entrée de la salle de sport pour confirmer la présence des inscrits aux séances réservées. Monsieur Ga souhaite conserver le rôle premier du site qui est d’informer et de présenter la salle de sport au travers de photos et textes pouvant être vus sur les moteurs de recherche et réseaux sociaux. </br></br>
 
-C.	Spécifications fonctionnelles (User stories) </br>
+C.	Spécifications fonctionnelles (User stories) </br></br>
 Entant qu’administrateur : </br>
 -	Je veux pouvoir accéder aux back-office du site afin de le manipuler entièrement.
 -	Je veux pouvoir répondre aux messages des clients intéressés par nos services afin de ne pas les faire attendre et d’avoir un contact direct avec les clients.
@@ -27,10 +27,10 @@ Entant que client : </br>
 -	Je veux pouvoir réserver un cours ou une séance en ligne afin d’y participer.
 -	Je veux pouvoir les contacter dans le cas où je décide d’annuler une réservation. </br></br>
 
-D.	Spécifications techniques </br>
+D.	Spécifications techniques </br></br>
 Le site est réalisé sur Wordpress. </br></br>
 
-E.	Structure du site et maquettage </br>
+E.	Structure du site et maquettage </br></br>
 Plan de site : </br>
 •	Accueil </br>
 •	Les cours </br>
@@ -39,7 +39,7 @@ Plan de site : </br>
 •	Contact </br>
 Les maquettes fil de fer du site sont renseignées dans le dossier « maquettes ». </br></br>
 
-Accéder au site ici : http://melissande.devweb.cfa.nc/wordpress/
+Accéder au site ici : http://melissande.devweb.cfa.nc/wordpress/ </br>
 <h4>A améliorer :</h4> </br>
 Il faut savoir que j’utilise deux API de Google dans ce projet : </br>
 -	Gmail API (utilisé avec WP Mail SMTP, un plugin Wordpress, pour l’envoie de mail) </br>
