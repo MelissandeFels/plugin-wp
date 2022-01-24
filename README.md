@@ -40,7 +40,7 @@ Plan de site : </br>
 Les maquettes fil de fer du site sont renseignées dans le dossier « maquettes ». </br></br>
 
 Accéder au site ici : http://melissande.devweb.cfa.nc/wordpress/ </br>
-<h3>A améliorer :</h3> </br>
+<h3>A améliorer :</h3>
 Il faut savoir que j’utilise deux API de Google dans ce projet : </br>
 -	Gmail API (utilisé avec WP Mail SMTP, un plugin Wordpress, pour l’envoie de mail) </br>
 -	Google Maps API (utilisé pour la localisation de l’entreprise et l’intégration de la map sur la page « Contact » du site) </br>
