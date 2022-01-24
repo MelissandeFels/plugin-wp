@@ -5,14 +5,14 @@ Optimum est une salle de sport qui propose diverses activités dont le yoga, le 
 B.	Définition du besoin </br> </br>
 Afin d’améliorer l’expérience utilisateur, OPTIMUM souhaite refaire son site internet. Le directeur Monsieur Ga souhaite moderniser son site en ajoutant un module de réservation pour les différents cours de sport et autres services comme les séances de yoga. </br></br>
 Le site permettra la réservation des services suivants : </br></br>
-    •	Accès à la salle de musculation (9000/m - 110000/a) </br>
-    •	Cours particuliers </br>
-      o	Renforcement musculaire (6000/s)</br>
-      o	Préparation physique (6000/s)</br>
-    •	Cours collectifs </br>
-      o	Cardio training (3000/s) </br>
-      o	Cross training (4000/s) </br>
-    •	Séance de yoga (5000/s) </br></br>
+    *	Accès à la salle de musculation (9000/m - 110000/a) </br>
+    *	Cours particuliers </br>
+      **	Renforcement musculaire (6000/s)</br>
+      **	Préparation physique (6000/s)</br>
+    *	Cours collectifs </br>
+      **	Cardio training (3000/s) </br>
+      **	Cross training (4000/s) </br>
+    *	Séance de yoga (5000/s) </br></br>
 Le directeur souhaite aussi rendre ce nouveau site internet accessible sur mobile car beaucoup de clients réservent des cours pendant leur journée de travail ou sur le trajet de la salle de sport. Une tablette sera aussi mise à disposition à l’entrée de la salle de sport pour confirmer la présence des inscrits aux séances réservées. Monsieur Ga souhaite conserver le rôle premier du site qui est d’informer et de présenter la salle de sport au travers de photos et textes pouvant être vus sur les moteurs de recherche et réseaux sociaux. </br></br>
 
 C.	Spécifications fonctionnelles (User stories) </br></br>
