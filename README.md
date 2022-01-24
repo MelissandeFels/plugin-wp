@@ -3,7 +3,7 @@
 A.	Présentation du client </br> </br>
 Optimum est une salle de sport qui propose diverses activités dont le yoga, le cross-training, le cardio-training, le renforcement musculaire, sous forme de cours particuliers et collectifs.</br></br>
 B.	Définition du besoin </br> </br>
-Afin d’améliorer l’expérience utilisateur, OPTIMUM souhaite refaire son site internet. Le directeur Monsieur Ga souhaite moderniser son site en ajoutant un module de réservation pour les différents cours de sport et autres services comme les séances de yoga. </br>
+Afin d’améliorer l’expérience utilisateur, OPTIMUM souhaite refaire son site internet. Le directeur Monsieur Ga souhaite moderniser son site en ajoutant un module de réservation pour les différents cours de sport et autres services comme les séances de yoga. </br></br>
 Le site permettra la réservation des services suivants : </br>
 •	Accès à la salle de musculation (9000/m - 110000/a) </br>
 •	Cours particuliers </br>
@@ -20,7 +20,7 @@ Entant qu’administrateur : </br>
 -	Je veux pouvoir accéder aux back-office du site afin de le manipuler entièrement.
 -	Je veux pouvoir répondre aux messages des clients intéressés par nos services afin de ne pas les faire attendre et d’avoir un contact direct avec les clients.
 -	Je veux pouvoir modifier les informations disponibles sur les pages du site (photos, articles, texte,..) afin de publier et renseigner ce que je souhaite.
--	Je veux pouvoir renseigner les informations sur les services proposés de la salle de sport afin qu’ils apparaissent sur le site.
+-	Je veux pouvoir renseigner les informations sur les services proposés de la salle de sport afin qu’ils apparaissent sur le site. </br></br>
 Entant que client : </br>
 -	Je veux pouvoir accéder au site partout où je me déplace afin de voir les dernières offres proposées par OPTIMUM.
 -	Je veux pouvoir envoyer un message à la salle de sport afin d’être renseigné si j’ai des questions (sur les offres par exemple).
