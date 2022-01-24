@@ -44,5 +44,6 @@ Accéder au site ici : http://melissande.devweb.cfa.nc/wordpress/ </br>
 Il faut savoir que j’utilise deux API de Google dans ce projet : </br>
 -	Gmail API (utilisé avec WP Mail SMTP, un plugin Wordpress, pour l’envoie de mail) </br>
 -	Google Maps API (utilisé pour la localisation de l’entreprise et l’intégration de la map sur la page « Contact » du site) </br>
-Sur l’URL renseigné ci-dessus, l’envoie d’email est impossible car le site est lancé depuis le serveur SSH de mon établissement de formation et ne m’autorise pas les accès actuellement. L’envoie de mail est donc impossible mais, si vous souahitez tester l’API Gmail, vous pouvez le faire depuis votre environnement local (lancement de Wordpress sous htdocs et test à partir de xampp avec l’URL « localhost :8080/path/… » (selon vos configuration).
+Sur l’URL renseigné ci-dessus, l’envoie d’email est impossible car le site est lancé depuis le serveur SSH de mon établissement de formation et ne m’autorise pas les accès actuellement. L’envoie de mail est donc impossible mais, si vous souahitez tester l’API Gmail, vous pouvez le faire depuis votre environnement local (lancement de Wordpress sous htdocs et test à partir de xampp avec l’URL « localhost :8080/path/… » (selon vos configuration).</br>
+La map n'est pas responsive pour le moment et n'est donc pas disponible sur la version mobile.
 
